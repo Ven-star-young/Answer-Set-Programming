@@ -1,3 +1,21 @@
+# 项目结构
+```
+CLMASP
+├─ ASP
+│  ├─ 8queen.lp
+│  ├─ asp&python
+│  │  ├─ color_node.py
+│  │  └─ test.lp
+│  ├─ color_node.lp
+│  ├─ Hamilton.lp
+│  └─ shudu.lp
+├─ CLMASP_note.md
+├─ CLMASP_note.pdf
+├─ CLMASP_paper.pdf
+└─ README.md
+
+```
+
 # 4个ASP经典问题的编码实现
 clingo version: 5.8.0
 
